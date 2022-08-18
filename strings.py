@@ -1,0 +1,9 @@
+a="Balu"
+b="Mouni"
+print(a)
+print(type(b))
+print(a[2])
+print(b[0:2])
+print(b[2:])
+print(a*2)
+print(a+b)
